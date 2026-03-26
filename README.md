@@ -5,7 +5,7 @@
 
   <p>
     <img src="https://img.shields.io/badge/Status-Active-success.svg" alt="Status">
-    <img src="https://img.shields.io/badge/Version-1.0.0-blue.svg" alt="Version">
+    <img src="https://img.shields.io/badge/Version-5.5-blue.svg" alt="Version">
     <img src="https://img.shields.io/badge/Goal-SDG%2014-cyan.svg" alt="SDG 14">
   </p>
 </div>
