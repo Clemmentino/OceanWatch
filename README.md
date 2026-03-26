@@ -86,7 +86,7 @@ We are located in New Visayas, Panabo City, Philippines.
 
 Email: info@oceanwatch.org
 
-Website: UN SDG Goal 14 Resource
+Website: [UN SDG Goal 14 Resource](https://clemmentino.github.io/OceanWatch/)
 
 <div align="center">
 <p><i>Every action counts. Join us in protecting our blue planet.</i></p>
